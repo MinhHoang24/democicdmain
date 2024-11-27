@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: mhoang24/ci-cd:staging
+          tags: mhoang24/democicdmain:staging
 
 
   pull-and-up:
